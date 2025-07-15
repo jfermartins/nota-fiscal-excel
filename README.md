@@ -1,5 +1,5 @@
 📄 NotaFiscal.xlsx
-Este repositório contém uma planilha em Excel utilizada para gestão e controlo de notas fiscais.
+Este repositório contém uma planilha em Excel utilizada para gestão e controle de notas fiscais.
 
 📊 Conteúdo da Planilha
 A planilha inclui:
